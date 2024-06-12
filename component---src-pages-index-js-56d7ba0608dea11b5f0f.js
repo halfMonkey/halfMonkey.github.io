@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[678],{3463:function(e,t,n){n.r(t),n.d(t,{Head:function(){return l},default:function(){return u}});var r=n(7294);n(4160);var a=e=>{let{children:t}=e;return r.createElement("div",null,t)};const l=()=>r.createElement(r.Fragment,null,"no head");var u=()=>r.createElement(a,null,"Hi there is nothing")}}]);
+//# sourceMappingURL=component---src-pages-index-js-56d7ba0608dea11b5f0f.js.map
